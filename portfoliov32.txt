@@ -1,0 +1,66 @@
+<html>
+    <head>
+         <center>
+        <title> Practice 1 </title>
+    </head> 
+    <body>
+    <!-- Aryan Kalia -->
+    <style type="text/css">
+    div {
+    width: 600px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 0px;
+    background-color: #add8e6
+    background-image: url(hardwood.gif);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    margin-left: 20%
+    margin-right: 20%
+    border: 1px dotted gray
+    padding: 10px 10px 10px 10px;
+    font-family: sans-serif;
+    }
+
+    </style>
+    <font face="+3""Verdana">
+
+    <body background="portfolio background.jpg">
+
+    <div style="position:fixed;left:350px;">
+    <marquee style="font-size:40pt;"scrollamount="10" direction="right"
+    behavior="alternate"><b>Aryans Portfolio</b></marquee>
+    </div>
+    <font face="Arial Black">
+    <div style="position:fixed;left:350px;top:150px;width:250px;height:160px;">
+    <img src="aryans balck lives matter.png" width="170" height="250"
+    style="position:fixed;top:150px;right:1100px;">
+    <head><font size="+3"> Black Lives Matter </font><head>
+    <p> Aryans Black Lives Matter </p>
+    </div>
+
+    <div style="position:fixed;left:950px;top:150px;width:250px;height:160px;">
+    <img src="Presentation catzilla.png" width="170" height="250"
+    style="position:fixed;top:150px;right:500px;">
+    <head><font size="+3"> Catzilla </font><head>
+    <p> Godzilla as a cat </p>
+    </div>
+
+    <div style="position:fixed;left:350px;top:450px;width:250px;height:160px;">
+    <img src="dolice amore.jpg" width="170" height="250"
+    style="position:fixed;top:450;right:1100px;">
+    <head><font size="+3"> Dolice Amore </font><head>
+    <p> The best ice cream place at commercial drive.Click here for directions:<a href="https://goo.gl/maps/x6TRrx9SNcWRg4Pc6"> detalied directions</a>
+    </div>
+
+    <div style="position:fixed;left:950px;top:450px;width:250px;height:160px;">
+    
+    
+    <head><font size="+3"> Head  Lounge </font><head>
+    <p> head lounge for buisness only. Click Here:<a href="file:///C:/Users/1237646/OneDrive%20-%20Board%20of%20Education%20of%20SD%2039%20(Vancouver)/omputer%20c/Lounge/new%20loungev3.html"> Buisness</a>
+ </p>
+    </div> 
+    </center>
+    </body>
+</html>
+    
